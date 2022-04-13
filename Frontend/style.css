@@ -1,0 +1,29 @@
+section {
+    font-family: 'roboto', sem serif;
+    text-align: center;
+    font-size: large;
+    letter-spacing: 0;
+    color: rgb(139,0,139);
+    font-style: italic;
+    font-weight: bold;
+   
+}
+
+footer, #MainMenu{
+    visibility: hidden;
+   
+}
+.e16nr0p30{
+    color:rgb(46, 9, 73);
+    font-weight: bold;
+    font-style: italic;
+}
+
+.e1fqkh3o2{
+    background-color: rgb(233, 156, 194);
+    font-size: large;
+}
+.effi0qh3{
+    font-size: large;
+    color:rgb(46, 9, 73);
+}
